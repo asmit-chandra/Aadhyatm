@@ -1,1 +1,1 @@
-# Aadhyatm
+# Adhyatm
